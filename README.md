@@ -1,2 +1,2 @@
 # UAV-Simulator
-a fix wing UAV Simulator in SIMULINK Based on the Interesting Book “Small Unmanned Aircraft: Theory and Practice”
+A fix wing UAV Simulator in SIMULINK based on the interesting book “Small Unmanned Aircraft: Theory and Practice” by Randal W. Beard & Timothy W. McLain
